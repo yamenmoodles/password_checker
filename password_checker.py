@@ -8,3 +8,4 @@ def symbol_check():
 
 def main():
     print("---Password Strength Checker---")
+    print("hello world")
